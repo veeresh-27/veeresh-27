@@ -27,7 +27,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veeresh-27&theme=dark&background=373F46" alt="veeresh-27" /></p>
 <h3>My Works</h3>
-<p align='center'>
-<p ><img height='130em'  src="https://github-readme-stats.vercel.app/api/pin/?username=veeresh-27&repo=auth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=373F46" alt="veeresh-27" /></p>
-<p  ><img  height='130em' src="https://github-readme-stats.vercel.app/api/pin/?username=veeresh-27&repo=linkedin-clone&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=373F46" alt="veeresh-27" /></p>
+<p align="center">
+  <a href="https://github.com/veeresh-27/auth" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=veeresh-27&repo=auth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=373F46" />
+  </a>
+  <a href="https://github.com/veeresh-27/linkedin-clone" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=veeresh-27&repo=linkedin-clone&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=373F46" />
+  </a>    
 </p>
