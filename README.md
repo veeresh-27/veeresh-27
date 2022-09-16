@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veeresh-27&theme=dark&background=373F46" alt="veeresh-27" /></p>
 
-##My Works
+## My Works
 
 <p align="center">
   <a href="https://github.com/veeresh-27/auth" target="_blank">
