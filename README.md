@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://veeresh-portfolio.netlify.app/](https://veeresh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://veeresh-27.github.io/my-portfolio/](https://veeresh-27.github.io/my-portfolio/)
 
 - 💬 Ask me about **React, Next and JS**
 
