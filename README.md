@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm veeresh-27</h1>
-<p align="center">A passionate frontend developer. CSE undergrad at, Presidency University</p>
+<p align="center">A passionate frontend developer. CSE undergrad at Presidency University</p>
 
 - 🌱 I’m currently learning **MERN**
 
