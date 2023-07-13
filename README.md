@@ -108,8 +108,7 @@
         src="https://img.shields.io/badge/-recatquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"
         alt="mysql"
       />
-    </a>
-     
+    </a>     
     <a href="#" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"
