@@ -19,6 +19,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
+   <a href="#" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white"
+        alt="tailwind"
+      />
+    </a>
+   <a href="#" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white"
+        alt="html5"
+      />
+    </a>
+     <a href="#" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white"
+        alt="html5"
+      />
+    </a>
     <a href="#" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"
@@ -29,18 +47,6 @@
       <img
         src="https://img.shields.io/badge/-firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"
         alt="firebase"
-      />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white"
-        alt="html5"
-      />
-    </a>
-     <a href="#" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white"
-        alt="html5"
       />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
@@ -144,13 +150,7 @@
         src="https://img.shields.io/badge/-netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"
         alt="tailwind"
       />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white"
-        alt="tailwind"
-      />
-    </a>
+    </a>   
     <a href="#" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/-angular-DD0031?style=flat-square&logo=angular&logoColor=white"
