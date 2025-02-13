@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm veeresh-27</h1>
-<p align="center">A passionate frontend developer. CSE undergrad at Presidency University</p>
+<p align="center">Software Engineer @ FAI | React | .Net | UIUX</p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Trying to complete my personal projects 😂
 
 - 👨‍💻 All of my projects are available at [https://veeresh-27.github.io/my-portfolio/](https://veeresh-27.github.io/my-portfolio/)
 
-- 💬 Ask me about **React, Next and JS**
+- 🍳 Cooking my new portfolio : [https://veereshrm.vercel.app/](https://veereshrm.vercel.app/)
+
+- 💬 Ask me about **React, Next, .Net and JS**
 
 - 📫 How to reach me **veereshrm789@gmail.com**
 
