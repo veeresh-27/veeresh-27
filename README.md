@@ -3,7 +3,7 @@
 
 - 🌱 Trying to complete my personal projects 😂
 
-- 👨‍💻 Check out my works and experience : [https://veereshrm.vercel.app/](https://veereshrm.vercel.app/)
+- 👨‍💻 Check out my works and experience : [https://www.veereshrm.com/](https://www.veereshrm.com/)
 
 - 💬 Ask me about **React, Next, .Net and JS**
 
