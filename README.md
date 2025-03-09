@@ -3,9 +3,7 @@
 
 - 🌱 Trying to complete my personal projects 😂
 
-- 👨‍💻 All of my projects are available at [https://veeresh-27.github.io/my-portfolio/](https://veeresh-27.github.io/my-portfolio/)
-
-- 🍳 Cooking my new portfolio : [https://veereshrm.vercel.app/](https://veereshrm.vercel.app/)
+- 👨‍💻 Check out my works and experience : [https://veereshrm.vercel.app/](https://veereshrm.vercel.app/)
 
 - 💬 Ask me about **React, Next, .Net and JS**
 
